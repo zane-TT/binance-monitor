@@ -19,9 +19,9 @@ run
 https://app.proxy-cheap.com/
 
 Bark 服务器的 URL，替换 `your_key` 为你的实际密钥
-
+ 
 Bark 下载地址
 
 https://bark.day.app/#/
 
-
+仅供学习使用， 无任何投资建议
